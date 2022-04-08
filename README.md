@@ -1,4 +1,4 @@
-![alt text](tela-inicial-caravan.png)
+![alt text](tela-inicial-caravan.PNG)
 
 ## 💻 Sobre o projeto Caravan
 
