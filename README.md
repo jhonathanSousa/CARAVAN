@@ -1,9 +1,20 @@
-![alt text](tela-inicial-caravan.PNG)
+![alt text](capa.PNG)
 
-## 💻 Sobre o projeto Caravan
+## CARAVAN
 
-Projeto criado para uma de empresa de viagens.A ideia do projeto foi praticar conceitos aprendidos no bootstrap, como grid , organização do código e como ganhar mais agiliidade durante um desenvolvimento do projeto utilizando um framework como o bootstrap.
+Project created for a travel company. The idea of ​​the project was to practice concepts learned in bootstrap, such as grid, code organization and how to gain more agility during project development using the bootstrap framework.
 
+## 🚀 Technologies :
+
+**Front-end:** BOOTSTRAP;
+
+## 💻 How to use :
+
+Project Link : https://project-caravan.vercel.app/
+
+## 👨 Author :
+
+[@jhonathanSousa](https://www.linkedin.com/in/jhonathan-alves-sousa/)
 
 
 
